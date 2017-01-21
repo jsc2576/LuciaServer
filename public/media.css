@@ -1,0 +1,23 @@
+@media (max-width:767px) {
+  .folder-margin{
+    height: 80%;
+    padding-bottom: 10px;
+  }
+}
+
+@media (min-width:768px) {
+
+  .folder-margin{
+    height: 90%;
+    padding-bottom: 80px;
+
+  }
+}
+
+@media (min-width:992px) {
+
+}
+
+@media (min-width:1200px) {
+
+}

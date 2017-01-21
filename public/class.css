@@ -1,0 +1,35 @@
+.container{
+  width: auto;
+  height: 100%;
+}
+
+.folder-margin{
+  width: auto;
+  padding: 20px;
+
+}
+
+.folder{
+  width: auto;
+  height: 100%;
+  border: 3px solid gray;
+  border-radius: 5px;
+  padding: 20px;
+  overflow-y: scroll;
+  background-color: rgba(255, 255, 255, 0.6);
+
+}
+
+.img-block{
+  height: 300px;
+  width: 100%;
+  position: relative;
+}
+
+.link-bar{
+  bottom: 0px;
+  height: 80px;
+  background-color: #999999;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
